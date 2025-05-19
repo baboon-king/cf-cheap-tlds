@@ -1,6 +1,7 @@
 # cf-cheap-tlds
 
-💡 A simple and regularly updated list of the cheapest Cloudflare domain TLDs, with registration and renewal prices. Useful for developers, makers, and anyone building on a budget.
+💡 A simple and regularly updated list of the cheapest Cloudflare domain TLDs, with registration and renewal prices.  
+Perfect for developers, makers, and anyone building on a budget.
 
 📌 **This list is manually curated. TLDs are sorted by price (low to high). Prices are for reference only.**
 
@@ -26,22 +27,22 @@
 | `.biz`   | $15.18         | $15.18      | [cf-cheap-tlds.biz](https://domains.cloudflare.com?domain=cf-cheap-tlds.biz)     |
 
 ✅ All prices are based on Cloudflare's no-markup policy  
-📌 Reference: [Cloudflare TLD List](https://domains.cloudflare.com/tlds)
-🔎 Try it yourself: [Cloudflare Domain Search](https://domains.cloudflare.com/)
+🔎 Check availability: [domains.cloudflare.com](https://domains.cloudflare.com/)  
+📚 Full TLD reference: [TLD Policies](https://domains.cloudflare.com/tlds)
 
 ## 🛠️ Why use Cloudflare Registrar?
 
-- No hidden fees or upsells
-- Wholesale pricing (ICANN + Registry cost only)
-- Free DNS, WHOIS privacy, email forwarding
-- Great for developers, makers, side projects
+- Transparent, wholesale pricing (ICANN + registry cost only)
+- No hidden fees, upsells, or bundling
+- Free DNS, WHOIS privacy, and email forwarding
+- Trusted by developers, makers, and indie projects
 
 ## ⚠️ Disclaimer
 
 This list is **not affiliated with or endorsed by Cloudflare**.  
-Prices may change at any time. Always confirm with [Cloudflare Registrar](https://domains.cloudflare.com/) before making purchasing decisions.
+Prices may change at any time. Please verify availability and pricing at [domains.cloudflare.com](https://domains.cloudflare.com/) before making decisions.
 
 ## 🧑‍💻 Maintainer
 
 Made by [BaboonKing](https://github.com/baboon-king).  
-PRs and corrections welcome!
+PRs, corrections, and suggestions are welcome!
