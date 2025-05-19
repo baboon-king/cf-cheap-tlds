@@ -1,7 +1,6 @@
 # cf-cheap-tlds
 
-💡 A simple and regularly updated list of the cheapest Cloudflare domain TLDs, with registration and renewal prices.  
-Perfect for developers, makers, and anyone building on a budget.
+Cheapest Cloudflare domain TLDs with registration and renewal pricing — no markup, updated manually.
 
 📌 **This list is manually curated. TLDs are sorted by price (low to high). Prices are for reference only.**
 
